@@ -1,9 +1,13 @@
 # Predictive Stock Analysis with LSTM: A Comprehensive Forecasting Dashboard
 
 ## Overview
-Predictive Stock Analysis with LSTM is an ambitious project aimed at leveraging the power of LSTM (Long Short-Term Memory) neural networks to forecast stock prices. This project dives deep into predictive analysis, utilizing historical market data to provide valuable insights into future stock trends.
+Predictive Stock Analysis with LSTM is an ambitious project aimed at leveraging the power of LSTM (Long Short-Term Memory) neural networks to forecast stock prices. This project dives deep into predictive analysis, leveraging libraries such as Dash, Pandas, Plotly, & Keras and utilizing historical market data to provide valuable insights into future stock trends.
 
-The primary goal is to harness machine learning techniques, particularly LSTM models, to uncover intricate patterns within stock market data. By analyzing past stock performance, the project aims to make informed predictions about future price movements.
+The primary objective is to uncover intricate patterns within historical stock market data. By employing LSTM models through Keras, the project aims to make informed predictions about future price movements. The project's core features include data preprocessing, LSTM model architecture, model evaluation, and an intuitive Dash web application for interactive data visualization.
+
+The Dash application allows users to explore and compare actual vs. predicted stock prices, empowering them to analyze trends across different market entities. Through a user-friendly interface and multiple tabs for analysis, users can gain insights into stock performance and make informed decisions.
+
+This initiative serves as a demonstration of LSTM's potential in predictive stock analysis and emphasizes the significance of leveraging machine learning for decoding complex market behaviors.
 
 ## Features
 
